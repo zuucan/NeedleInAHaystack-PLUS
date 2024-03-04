@@ -21,6 +21,9 @@ All datas in NeedleInAHaystack-PLUS are standardized to the following format:
 ```
 
 ## Results Visualization
-### OpenAI's GPT-4-128K (Run 2024-01-31)
+The invocation time of the APIs:
+* OpenAI's GPT-4-128K (Run 2024-01-31)
+* Anthropic's Claude 2.1 (Run 2024-02-08)
+### Single-document QA
 
-### Anthropic's Claude 2.1 (Run 2024-02-08)
+###  Multi-document QA
