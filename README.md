@@ -15,7 +15,7 @@ All datas in NeedleInAHaystack-PLUS are standardized to the following format:
     "context_length": "The length of haystack ranges from 1,000 to 128,000 tokens with equal intervals, totaling 15 different lengths.",
     "depth_percent": "The position of the needle in the haystack.",
     "input": "The questions of the question single-document answering task.",
-    "dataset": "The name of the dataset, currently divided into needle_squad and needle_hotpotqa.",
+    "dataset": "needle_squad",
     "answers": "A List of all true answers.",
 }
 ```
@@ -28,7 +28,7 @@ All datas in NeedleInAHaystack-PLUS are standardized to the following format:
     "depth_percent1": "The position of the first needle in the haystack.",
     "depth_percent2": "The position of the second needle in the haystack.",
     "input": "The questions of the question single-document answering task.",
-    "dataset": "The name of the dataset, currently divided into needle_squad and needle_hotpotqa.",
+    "dataset": "needle_hotpotqa",
     "answers": "A List of all true answers.",
 }
 ```
