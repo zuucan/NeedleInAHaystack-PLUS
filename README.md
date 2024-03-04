@@ -25,5 +25,6 @@ The invocation time of the APIs:
 * OpenAI's GPT-4-128K (Run 2024-01-31)
 * Anthropic's Claude 2.1 (Run 2024-02-08)
 ### Single-document QA
-
+Markup : ![picture alt]([http://via.placeholder.com/200x150](https://github.com/zuucan/NeedleInAHaystack-PLUS/blob/main/multiQA.jpg)https://github.com/zuucan/NeedleInAHaystack-PLUS/blob/main/singleQA.jpg)
 ###  Multi-document QA
+Markup : ![picture alt]([http://via.placeholder.com/200x150](https://github.com/zuucan/NeedleInAHaystack-PLUS/blob/main/multiQA.jpg)https://github.com/zuucan/NeedleInAHaystack-PLUS/blob/main/multiQA.jpg)
