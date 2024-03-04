@@ -29,8 +29,11 @@ The invocation time of the APIs:
 ###  Multi-document QA
 ![picture alt](https://github.com/zuucan/NeedleInAHaystack-PLUS/blob/main/multiQA.jpg)
 
-# Citation
-```python
+## Acknowledgement
+NeedleInAHaystack-PLUS is based on the datasets proposed by previous researchers, including [NeedleInAHaystack](https://github.com/gkamradt/LLMTest_NeedleInAHaystack?tab=readme-ov-file), [Squad](https://rajpurkar.github.io/SQuAD-explorer/), [HotpotQA](https://hotpotqa.github.io).
+
+## Citation
+```javascript
 @misc{zhao2024longagent,
       title={LongAgent: Scaling Language Models to 128k Context through Multi-Agent Collaboration}, 
       author={Jun Zhao and Can Zu and Hao Xu and Yi Lu and Wei He and Yiwen Ding and Tao Gui and Qi Zhang and Xuanjing Huang},
