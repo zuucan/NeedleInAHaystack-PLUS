@@ -8,7 +8,7 @@ Our test data can be download in [NeedleInAHaystack-PLUS](https://drive.google.c
 ### Data Format
 All datas in NeedleInAHaystack-PLUS are standardized to the following format:
 
-```javascript
+```python
 {
     "id": "The unique identifier for each test data.",
     "context": "The long context of the comprehension task.",
@@ -28,3 +28,15 @@ The invocation time of the APIs:
 ![picture alt](https://github.com/zuucan/NeedleInAHaystack-PLUS/blob/main/singleQA.jpg)
 ###  Multi-document QA
 ![picture alt](https://github.com/zuucan/NeedleInAHaystack-PLUS/blob/main/multiQA.jpg)
+
+# Citation
+```python
+@misc{zhao2024longagent,
+      title={LongAgent: Scaling Language Models to 128k Context through Multi-Agent Collaboration}, 
+      author={Jun Zhao and Can Zu and Hao Xu and Yi Lu and Wei He and Yiwen Ding and Tao Gui and Qi Zhang and Xuanjing Huang},
+      year={2024},
+      eprint={2402.11550},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
